@@ -54,3 +54,4 @@ Run the app:
 
 python app.py
 Open browser at http://127.0.0.1:5000
+Screenshot: https://drive.google.com/drive/folders/1f8uZn4YLppDP-W4Ximmg93kxVcim_LOI?usp=drive_link
